@@ -1,6 +1,6 @@
 {
     "name": "nodebb-plugin-import-drupal",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A drupal to NodeBB data exporter",
     "main": "./index.js",
     "scripts": {
@@ -29,6 +29,9 @@
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/akhoury/nodebb-plugin-import-drupal/issues"
+    },
+    "nbbpm": {
+        "index": false
     },
     "dependencies": {
         "underscore": "~1.6.0",
