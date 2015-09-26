@@ -8,5 +8,5 @@
 	{ "hook": "filter:admin.header.build", "method": "admin.menu"},
 	{ "hook": "static:app.load", "method": "admin.load"}
   ],
-  "templates": "./public/templates",
+  "templates": "./public/templates"
 }
