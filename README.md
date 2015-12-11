@@ -1,3 +1,7 @@
+# DOES NOT WORK YET !! 
+
+if you want to take a shot at it, be my guest. Pull requests welcomed.
+
 nodebb-plugin-import-drupal
 ==========================
 
